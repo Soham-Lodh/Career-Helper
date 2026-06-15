@@ -361,18 +361,16 @@ const STYLES = `
     font-weight: 900;
     letter-spacing: -0.04em;
     line-height: 1.08;
-     color: #ff7a45;
-     text-shadow: 0 0 20px rgba(255,122,69,0.35);
+     color: #fffff;
+     
     max-width: 700px;
     margin: 0 auto 20px;
   }
 
   .cl-hero h1 em {
     font-style: normal;
-    color: #ffffff;
-    text-shadow:
-      0 4px 12px rgba(0,0,0,0.5),
-      0 8px 40px rgba(0,0,0,0.7);
+    color: #ff7a45;
+    text-shadow: 0 0 20px rgba(255,122,69,0.35);
   }
 
   .cl-hero p {
