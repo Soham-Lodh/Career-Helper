@@ -1,6 +1,6 @@
 # CareerLens — AI-Powered Career & Burnout Predictor
 
-> **Live Demo:** [career-helper-ml.vercel.app](https://career-helper-ml.vercel.app)
+> **Live Demo:** [career-lens-ml.vercel.app](https://career-lens-ml.vercel.app/)
 
 CareerLens is a full-stack machine learning application that predicts three critical student career outcomes — **burnout risk**, **career readiness**, and **likelihood of seeking career counseling** — from a structured set of academic, behavioural, and AI-usage inputs. The system pairs a rigorously built multi-target ML pipeline with a polished React interface and a production FastAPI backend.
 
